@@ -1,0 +1,245 @@
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\QLDP_02.dll.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\QLDP_02.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\QLDP_02.pdb
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\csc.exe
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\csc.exe.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\csc.rsp
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\csi.exe
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\csi.exe.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\csi.rsp
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.AppContext.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Console.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.IO.Compression.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Net.Http.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.ValueTuple.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\vbc.exe
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\vbc.exe.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\vbc.rsp
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\VBCSCompiler.exe
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\Antlr3.Runtime.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\Newtonsoft.Json.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.Helpers.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.Mvc.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.Optimization.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.Razor.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.WebPages.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.WebPages.Razor.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\WebGrease.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.Helpers.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.Mvc.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.Optimization.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.Razor.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.WebPages.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\System.Web.WebPages.Razor.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\Newtonsoft.Json.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\Antlr3.Runtime.pdb
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\obj\Debug\QLDP_02.csproj.AssemblyReference.cache
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\obj\Debug\QLDP_02.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\obj\Debug\QLDP_02.csproj.CopyComplete
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\obj\Debug\QLDP_02.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLBH\QLDP_02\QLDP_02\obj\Debug\QLDP_02.pdb
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\QLDP_02.dll.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\QLDP_02.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\QLDP_02.pdb
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\csc.exe
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\csc.exe.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\csc.rsp
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\csi.exe
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\csi.exe.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\csi.rsp
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.AppContext.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Console.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.IO.Compression.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Net.Http.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.ValueTuple.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\vbc.exe
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\vbc.exe.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\vbc.rsp
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\VBCSCompiler.exe
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\Antlr3.Runtime.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\Newtonsoft.Json.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.Helpers.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.Mvc.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.Optimization.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.Razor.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.WebPages.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.WebPages.Razor.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\WebGrease.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.Helpers.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.Mvc.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.Optimization.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.Razor.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.WebPages.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\System.Web.WebPages.Razor.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\Newtonsoft.Json.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\Antlr3.Runtime.pdb
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\obj\Debug\QLDP_02.csproj.AssemblyReference.cache
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\obj\Debug\QLDP_02.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\obj\Debug\QLDP_02.csproj.CopyComplete
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\obj\Debug\QLDP_02.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\obj\Debug\QLDP_02.pdb
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\EntityFramework.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\EntityFramework.SqlServer.dll
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\EntityFramework.xml
+C:\Users\NguyenTu\Desktop\THUC-TAP\3.PROJECT\QLDP_02\QLDP_02\bin\EntityFramework.SqlServer.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\QLDP_02.dll.config
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\QLDP_02.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\QLDP_02.pdb
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\csc.exe
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\csc.exe.config
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\csc.rsp
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\csi.exe
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\csi.exe.config
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\csi.rsp
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.AppContext.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Console.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.IO.Compression.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Net.Http.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.ValueTuple.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\vbc.exe
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\vbc.exe.config
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\vbc.rsp
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\VBCSCompiler.exe
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\Antlr3.Runtime.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\EntityFramework.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\EntityFramework.SqlServer.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\Newtonsoft.Json.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.Helpers.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.Mvc.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.Optimization.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.Razor.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.WebPages.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.WebPages.Razor.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\WebGrease.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\EntityFramework.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\EntityFramework.SqlServer.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.Helpers.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.Mvc.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.Optimization.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.Razor.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.WebPages.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\System.Web.WebPages.Razor.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\Newtonsoft.Json.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\Antlr3.Runtime.pdb
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\obj\Debug\QLDP_02.csproj.AssemblyReference.cache
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\obj\Debug\QLDP_02.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\obj\Debug\QLDP_02.csproj.CopyComplete
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\obj\Debug\QLDP_02.dll
+C:\Users\NguyenTu\Desktop\BACKUP PROJECT\ThucTap\3\QLDP_02\QLDP_02\obj\Debug\QLDP_02.pdb
